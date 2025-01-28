@@ -1,0 +1,10 @@
+telegram:
+  bot_token: "YOUR_TELEGRAM_BOT_TOKEN"
+  channel_id: "@your_channel"
+  bonkbot_key: "YOUR_BONKBOT_API_KEY"
+  bonkbot_api: "https://api.bonkbot.com/trade"
+
+apis:
+  # Previous API configurations...
+  
+# Rest of previous configuration...
